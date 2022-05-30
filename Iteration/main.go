@@ -7,3 +7,17 @@ func Repeat(character string, num int) string {
 	}
 	return repeated
 }
+
+func clone(s string) string {
+	return s
+}
+
+func Compare(x, y string) int {
+	if x == y {
+		return 0
+	}
+	if x < y {
+		return -1
+	}
+	return +1
+}
