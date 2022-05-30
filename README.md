@@ -4,4 +4,5 @@
 
 ## Lessons / Tests:
 - [x] Hello-World
-- [ ] Integrers
+- [ ] Integers
+- [ ] Iteration
