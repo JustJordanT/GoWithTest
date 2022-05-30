@@ -2,7 +2,9 @@
 set -e
 
 cd ./Hello-World
-go test
+go test -v
 
+cd ./Integers
+go test -v
 
 cd ..
